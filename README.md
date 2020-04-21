@@ -1,8 +1,7 @@
 # Nearby Places
 
 Nearby Places is an android mobile application which allows
-to search for nearby places through geolocation, distance. In fact, the
-concept of proximity is relative, and it depends from distance itself. So, the android mobile application is able to search places, and we know that many target
+to search for nearby places through geolocation, distance using Google Maps API. It is able to search places, As many target
 users are used to walking to these places, so we thought to allow the users to set
 desired radius in the nearby search.
 
