@@ -5,8 +5,7 @@ Nearby Places is an android mobile application that allows you to search for any
 In Google Maps, we can search a nearby location but we cannot set
 the desired radius of the search parameter.
 
-Even if we can set the radius the options in google maps are very limited and
-always hidden somewhere as seen below.
+Even if we can set the radius the options in google maps are very limited, always hidden somewhere deep in the filter section and sometimes unavailable as seen below.
 
 <img width="152" alt="Picture 1" src="https://user-images.githubusercontent.com/52598978/79687128-ba2ae280-8262-11ea-8b7b-e0eb953a7a39.png">
 
