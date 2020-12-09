@@ -1,11 +1,5 @@
 # Nearby Places
 
-<!--Nearby Places is an android mobile application that allows you to search for any place in your vicinity and nearby places through geolocation,  distance using Google Maps API. As many target users are used to walking to these places, so we thought to allow the users to set the desired proximity radius(up to 50kms) in the nearby search.-->
-
-In Google Maps, we can search a nearby location but we cannot set
-the desired radius of the search parameter.
-
-<!--Even if we can set the proximity radius the options in google maps are very limited, always hidden somewhere deep in the filter section and sometimes unavailable as seen below.-->
 <img width="152" alt="Picture 1" src="https://user-images.githubusercontent.com/52598978/79687128-ba2ae280-8262-11ea-8b7b-e0eb953a7a39.png">
 
 The Options available are:
